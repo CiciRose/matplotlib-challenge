@@ -10,9 +10,11 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ## Contents
 - Provided by the module:
-  - pymaceuticals_starter.inpynb (finished code is also in this file)
+  - pymaceuticals_starter.ipynb (finished code is also in this file)
   - data/Mouse_metadata.csv
   - data/Study_results.csv
+- Provided by GitHub
+  - .gitignore
 
 ## Analysis
 - A total of 248 mice were tested and the ratio of male to female was fairly split at 51% and 49% respectively
